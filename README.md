@@ -25,4 +25,7 @@ Hacen posible la conexión con la db y los beans para aplicar **Query Methods**
 
 ![image](https://github.com/SergioABS-GTICS/clase2-3/assets/154263057/7a52c4ff-b12d-452a-bf49-f402a22af8be)
 
+## Query Methods
+
+
 
