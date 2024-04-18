@@ -17,6 +17,12 @@ Hacen posible la conexión con la db y los beans para aplicar **Query Methods**
 
 ![image](https://github.com/SergioABS-GTICS/clase2-3/assets/154263057/b81101e0-8bd2-4abf-96ae-56c01ca97a80)
 
+## EMPLEAR REPOSITORIES EN CONTROLLERS
 
+![image](https://github.com/SergioABS-GTICS/clase2-3/assets/154263057/8369de9f-7367-4a8d-9b42-c808213cdfd5)
+
+**Con ello podemos utilizar las herramientas y funciones en el controller**
+
+![image](https://github.com/SergioABS-GTICS/clase2-3/assets/154263057/7a52c4ff-b12d-452a-bf49-f402a22af8be)
 
 
